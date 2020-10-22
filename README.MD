@@ -3,7 +3,7 @@
 
 ## 1. Tiimiga tahvel keskkonna ümberkujundamine
 
- Meie  plaanisime luua tahvli keskkonna, mis oleks rohkem lihtsustatud ning kergem silmadega kiiresti üle sirvata ja infot lugeda kui Ametikooli praegune tahvel ning lisada mõned uued meie arust vajalikud funktsionaalsused juurde.
+ Meie  plaanisime luua tahvli keskkonna, mis oleks kasutajasõbralikum ning kergem silmadega kiiresti üle sirvata ja infot lugeda kui Ametikooli praegune tahvel ning lisada mõned uued meie arust vajalikud funktsionaalsused juurde.
 
 ## 2. Minu roll tiimis
  Uue tahvli keskkonna tegemisel oli minul peamiselt üks roll:
